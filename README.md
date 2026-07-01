@@ -1,6 +1,7 @@
 # Tableau Assignment Solutions
 
 🌟 **[Click here to view the Interactive Tableau Dashboard on Tableau Public!](https://public.tableau.com/shared/YWTBC5ZPK)** 🌟
+📄 **[Click here to view the Dashboard Snapshot (PDF)](Dashboard%20.pdf)** 📄
 
 This repository contains the completed Tableau workbook (`tableau assignment .twbx`) which addresses all 7 assignments. Below is a detailed explanation of the solution for each assignment.
 
